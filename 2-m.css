@@ -11,7 +11,7 @@ body {
    display: flex;
    justify-content: center;
    align-items: center;
-   background-image: url(Rectangle3.png);
+   background-image: url(imgs/Rectangle3.png);
    z-index: 1;
    position: relative;
    /* width: 100%; */
